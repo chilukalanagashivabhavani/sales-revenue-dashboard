@@ -1,16 +1,33 @@
-# Sales & Revenue Analysis Dashboard
+# Sales & Revenue Analysis + Customer Segmentation
 
-Interactive dashboard built using Streamlit, Pandas, and Plotly.
+This repository contains two data analytics and machine learning projects built using Python and Streamlit.
 
-## Features
+## Projects Included
+
+### 1. Sales & Revenue Analysis Dashboard
+Features:
 - Upload CSV/Excel files
 - KPI Metrics
 - Interactive Charts
-- Data Filters
+- Dynamic Filters
 - Revenue Analysis
+
+### 2. Customer Segmentation Project
+Features:
+- Customer clustering using K-Means
+- Interactive visualizations
+- Spending pattern analysis
+- Customer group analysis
 
 ## Technologies Used
 - Python
 - Streamlit
 - Pandas
 - Plotly
+- Scikit-learn
+
+## How to Run
+
+### Sales Dashboard
+```bash
+streamlit run app.py
