@@ -19,6 +19,14 @@ Features:
 - Spending pattern analysis
 - Customer group analysis
 
+### 3. Predictive Analytics Using Historical Data
+Features:
+- Historical data prediction
+- Linear Regression model
+- Prediction accuracy metrics
+- Trend visualization
+- Actual vs Predicted analysis
+
 ## Technologies Used
 - Python
 - Streamlit
